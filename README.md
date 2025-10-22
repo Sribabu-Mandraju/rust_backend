@@ -178,3 +178,4 @@ curl -X POST http://127.0.0.1:8000/evm/verify-message \
 - Private keys should be 64 hex characters (with or without 0x prefix)
 - Addresses should be valid Ethereum addresses
 # rust_backend
+# rust_backend
